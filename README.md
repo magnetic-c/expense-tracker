@@ -1,6 +1,6 @@
 # Wally — Smart Expense Tracker
 
-A personal finance assistant, not just another CRUD expense tracker.
+A personal finance assistant
 
 ## What's inside
 
